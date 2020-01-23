@@ -55,14 +55,8 @@ great starting point, particularly the
 
 Build a simple MERN app! 
 
-Your app should have a front-end built with React.
-
-**OPTIONAL**:Build a back-end with Express that persists 
-data to a MongoDB database using Mongoose. Your Express app should return JSON data to
-your React front-end. Use AJAX to get data from your Express back-end and pass the data through your app using
-state and props. Use React Router to build out separate 'views' for creating,
-editing, updating and deleting instances of your model. Stick to just 1 model and 
-keep it simple. 
+Your app should have a front-end built with React and a back-end built with Node/Express. The back-end should persist 
+data to a MongoDB database using Mongoose. Your Express app should return JSON data to your React front-end. Use AJAX to get data from your Express back-end and pass the data through your app using state and props. Use React Router to build out separate 'views' for creating, editing, updating and deleting instances of your model. Stick to just 1 model and keep it simple. 
 
 ## Bonus
 
